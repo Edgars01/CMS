@@ -1,0 +1,37 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    background-color: #1f142d;
+    padding: 10px;
+    justify-content: center;
+}
+.grid-item {
+
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    height: 1px;
+    width: 66px;
+
+    background-repeat: no-repeat;
+}
+
+.item1 {
+    background-image: url(/img/footerImg/basedcooking.gif);
+}
+
+.item2 {
+    background-image: url(/img/footerImg/landchad.gif);
+}
+
+.item3 {
+    background-image: url(/img/footerImg/larbs.gif);
+}
+
+.item4 {
+    background-image: url(/img/footerImg/lindypress.webp);
+}
+
+.item5 {
+    background-image: url(/img/footerImg/notrelated.gif);
+}
