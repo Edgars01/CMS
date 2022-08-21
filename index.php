@@ -14,7 +14,7 @@
     <meta charset="utf-8">
     <title> CMS </title>
 
-    <style> <?php include "/Users/edgars/Desktop/cms/css/mainStyle.css" ?> </style>
+    <style> <?php include "css/mainStyle.css" ?> </style>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="/Users/edgars/Desktop/cms/js/script.js"></script>

@@ -2,7 +2,7 @@
     <meta charset="utf-8">
     <title> CMS </title>
 
-    <style> <?php include "/Users/edgars/Desktop/cms/css/signupStyle.css" ?> </style>
+    <style> <?php include "css/signupStyle.css" ?> </style>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="js/script.js"></script>
@@ -88,7 +88,18 @@ if (isset($_GET["error"]))
             <span>or use your account</span>
             <input type="text" name="uid" placeholder="Username/Email" />
             <input type="password" name="pwd" placeholder="Password" />
-            <a href="#">Forgot your password?</a>
+
+            <?php
+                if (isset($_GET["newpwd"]))
+                {
+                    if ($_GET["newpwd"] == "passwordupdated")
+                    {
+                        echo '<p class="signupSuccess"> Your password has been reset!</p>';
+                    }
+                }
+            ?>
+
+            <a href="reset-password.php">Forgot your password?</a>
             <button type="submit" name="submit">Sign In</button>
         </form>
 

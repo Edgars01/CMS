@@ -1,6 +1,8 @@
 <?php
 // database handler
 
+
+// do not include these in real website, only in localhost
 $serverName = "localhost";
 $dbUserName = "root";
 $dbPassword = "";
