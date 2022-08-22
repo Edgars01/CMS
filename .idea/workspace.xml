@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ba6a865-a7ca-4ab1-853c-3693eaab8b74" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/cms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/create-new-password.php" beforeDir="false" afterPath="$PROJECT_DIR$/create-new-password.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/dbh.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/dbh.inc.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/reset-password.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/reset-password.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/includes/reset-request.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/reset-request.inc.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reset-password.php" beforeDir="false" afterPath="$PROJECT_DIR$/reset-password.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/signup.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +77,10 @@
       <workItem from="1661063957924" duration="1051000" />
       <workItem from="1661065684512" duration="1048000" />
       <workItem from="1661066819873" duration="169000" />
+      <workItem from="1661066992249" duration="206000" />
+      <workItem from="1661090103635" duration="561000" />
+      <workItem from="1661100071319" duration="468000" />
+      <workItem from="1661151270349" duration="1633000" />
     </task>
     <task id="LOCAL-00001" summary="recovery done">
       <created>1661066632517</created>
@@ -104,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661066894862</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="recovery done">
+      <created>1661067034907</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661067034907</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
