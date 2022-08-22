@@ -1,16 +1,16 @@
-# Program goal:
+User can sign up
+<br>
+User can log in
+<br>
+User can recover password via email recovery link
+<br>
+For email recovery to work you must insert your gmail and gmail app password , 
+<br>
+how to get it - (https://support.google.com/accounts/answer/185833?hl=en). 
+<br>
+File - reset-request.inc.php file
+<br>
 
-1. Create a system with e-mail authorization and password.
+![Screen Shot 2022-08-21 at 10 21 57](https://user-images.githubusercontent.com/79999452/185780612-ab3b6888-751c-424d-84f6-526770ea8942.png)
 
-
-2. User should be able to change the following data:
-   e-mail, name, last name, picture.
-
-
-3. After authentification in the system user should be able to view
-   any of XML list from http://sportacentrs.com/musu-rss printed with
-   HTML.
-
-
-4. Bonus points for authentification with google API
-# content-management-system
+# don't change :  $mail->Host = 'smtp.gmail@.com';
