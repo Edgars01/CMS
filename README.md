@@ -12,3 +12,5 @@ File - reset-request.inc.php file
 <br>
 
 ![Screen Shot 2022-08-21 at 10 21 57](https://user-images.githubusercontent.com/79999452/185780612-ab3b6888-751c-424d-84f6-526770ea8942.png)
+
+don't change :  $mail->Host = 'smtp.gmail@.com';
